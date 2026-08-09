@@ -1,10 +1,10 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
 public class FixLowAlignment : MonoBehaviour
 {
+    //test git
     [SerializeField] private List<TMPro.TMP_Text> texts;
     [SerializeField] private List<char> chars;
     [SerializeField] private List<float> offsets;
