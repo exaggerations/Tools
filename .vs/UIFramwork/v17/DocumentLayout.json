@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProject\\UIFramwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\tool\\fixlowalignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tool\\fixlowalignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|c:\\unityproject\\uiframwork\\assets\\scripts\\grap\\grapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grap\\grapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\tool\\unityextentionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tool\\unityextentionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\data\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\mvc\\script\\abilitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\script\\abilitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\data\\characterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\characterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\uitoolkit\\partydatascreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uitoolkit\\partydatascreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\uitoolkit\\data\\uidocuments\\playerdata.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\uitoolkit\\data\\uidocuments\\playerdata.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\manager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\uiframework\\startpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiframework\\startpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\uiframework\\panelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiframework\\panelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\scene\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\scene\\scenectr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene\\scenectr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\scene\\scenestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene\\scenestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\scene\\startscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene\\startscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\gameroot\\gameroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameroot\\gameroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\base\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\base\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\startmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\uiframework\\uitype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiframework\\uitype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\scripts\\uiframework\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiframework\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\mvc\\script\\abilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\script\\abilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\mvc\\script\\abilitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\script\\abilitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\mvc\\script\\abilityview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\script\\abilityview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\mvc\\script\\abilitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\script\\abilitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\observ\\observlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\observ\\observlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|C:\\UnityProject\\UIFramwork\\assets\\mvc\\script\\abilitybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728EF14-E30B-F322-F651-CE81F916A679}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\script\\abilitybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grapper.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Grap\\Grapper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Grap\\Grapper.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Grap\\Grapper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Grap\\Grapper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T10:36:21.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FixLowAlignment.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Tool\\FixLowAlignment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tool\\FixLowAlignment.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Tool\\FixLowAlignment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tool\\FixLowAlignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T05:20:03.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacterState.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Data\\CharacterState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\CharacterState.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Data\\CharacterState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\CharacterState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T14:06:00.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterData.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Data\\CharacterData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\CharacterData.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Data\\CharacterData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\CharacterData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T14:00:28.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PartyDataScreen.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\UIToolKit\\PartyDataScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIToolKit\\PartyDataScreen.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\UIToolKit\\PartyDataScreen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIToolKit\\PartyDataScreen.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T13:03:11.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerData.uxml",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\UIToolkit\\Data\\UIDocuments\\PlayerData.uxml",
+              "RelativeDocumentMoniker": "Assets\\UIToolkit\\Data\\UIDocuments\\PlayerData.uxml",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\UIToolkit\\Data\\UIDocuments\\PlayerData.uxml",
+              "RelativeToolTip": "Assets\\UIToolkit\\Data\\UIDocuments\\PlayerData.uxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-08-02T04:51:50.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Manager\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\AudioManager.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Manager\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\AudioManager.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T05:04:01.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SceneController.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Scene\\SceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene\\SceneController.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Scene\\SceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene\\SceneController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T09:40:15.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AbilityData.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\MVC\\Script\\AbilityData.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\Script\\AbilityData.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\MVC\\Script\\AbilityData.cs",
+              "RelativeToolTip": "Assets\\MVC\\Script\\AbilityData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T10:21:46.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnityExtentionMethod.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Tool\\UnityExtentionMethod.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tool\\UnityExtentionMethod.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Tool\\UnityExtentionMethod.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tool\\UnityExtentionMethod.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwEIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T14:59:50.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SceneCtr.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Scene\\SceneCtr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene\\SceneCtr.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Scene\\SceneCtr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene\\SceneCtr.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T09:36:34.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SceneState.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Scene\\SceneState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene\\SceneState.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Scene\\SceneState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene\\SceneState.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T03:21:27.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameRoot.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\GameRoot\\GameRoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameRoot\\GameRoot.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\GameRoot\\GameRoot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameRoot\\GameRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T03:01:27.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartPanel.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\UIFramework\\StartPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIFramework\\StartPanel.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\UIFramework\\StartPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIFramework\\StartPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T11:07:41.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PanelManager.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\UIFramework\\PanelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIFramework\\PanelManager.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\UIFramework\\PanelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIFramework\\PanelManager.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T07:10:47.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StartScene.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Scene\\StartScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene\\StartScene.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Scene\\StartScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene\\StartScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T03:31:43.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UIType.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\UIFramework\\UIType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIFramework\\UIType.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\UIFramework\\UIType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIFramework\\UIType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T06:06:34.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ObservList.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Observ\\ObservList.cs",
+              "RelativeDocumentMoniker": "Assets\\Observ\\ObservList.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Observ\\ObservList.cs",
+              "RelativeToolTip": "Assets\\Observ\\ObservList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T10:31:15.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BasePanel.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Base\\BasePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Base\\BasePanel.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\Base\\BasePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Base\\BasePanel.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADgv0IAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T07:15:35.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\UIFramework\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIFramework\\UIManager.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\UIFramework\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIFramework\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T07:15:45.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StartManager.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\StartManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartManager.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\Scripts\\StartManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T11:20:51.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AbilityModel.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\MVC\\Script\\AbilityModel.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\Script\\AbilityModel.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\MVC\\Script\\AbilityModel.cs",
+              "RelativeToolTip": "Assets\\MVC\\Script\\AbilityModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T11:42:04.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AbilityButton.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\MVC\\Script\\AbilityButton.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\Script\\AbilityButton.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\MVC\\Script\\AbilityButton.cs",
+              "RelativeToolTip": "Assets\\MVC\\Script\\AbilityButton.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T11:45:54.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AbilityView.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\MVC\\Script\\AbilityView.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\Script\\AbilityView.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\MVC\\Script\\AbilityView.cs",
+              "RelativeToolTip": "Assets\\MVC\\Script\\AbilityView.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T02:48:24.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AbilityCommand.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\MVC\\Script\\AbilityCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\Script\\AbilityCommand.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\MVC\\Script\\AbilityCommand.cs",
+              "RelativeToolTip": "Assets\\MVC\\Script\\AbilityCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T03:30:12.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AbilityController.cs",
+              "DocumentMoniker": "C:\\UnityProject\\UIFramwork\\Assets\\MVC\\Script\\AbilityController.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\Script\\AbilityController.cs",
+              "ToolTip": "C:\\UnityProject\\UIFramwork\\Assets\\MVC\\Script\\AbilityController.cs",
+              "RelativeToolTip": "Assets\\MVC\\Script\\AbilityController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T03:42:56.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

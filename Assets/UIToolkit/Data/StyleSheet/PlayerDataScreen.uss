@@ -1,0 +1,7 @@
+Label {
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+    -unity-font: url("project://database/Assets/TextMesh%20Pro/Fonts/LiberationSans.ttf?fileID=12800000&guid=e3265ab4bf004d28a9537516768c1c75&type=3#LiberationSans");
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.39);
+    -unity-text-align: middle-center;
+}
