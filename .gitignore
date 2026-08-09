@@ -1,0 +1,62 @@
+# ========================
+# Unity 生成的临时文件/缓存
+# ========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Logs/
+UserSettings/
+
+# ========================
+# Visual Studio / Rider 生成文件
+# ========================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ========================
+# Unity 自动生成的资源数据库
+# ========================
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ========================
+# 操作系统文件
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# 其他常见忽略项
+# ========================
+*.zip
+*.tar.gz
+*.rar
+.vscode/
+.idea/
+
+# ========================
+# 重要提示：
+# 以下文件通常建议保留（不要忽略），以便团队协作：
+# *.cs (代码)
+# *.unity (场景)
+# *.prefab (预制体)
+# *.asset (资源配置)
+# Packages/manifest.json (包依赖列表)
+# Packages/packages-lock.json (包锁定文件)
+# ========================
